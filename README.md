@@ -25,7 +25,7 @@ G201210043
 # Mirasımız Sayfası 
 -	Şehirdeki kültürel bir mekanın tanıtımı  
      
-   	# Login Sayfası 
+# Login Sayfası 
 -	Kullanıcıdan kullanıcı adı ve şifre istenmeli 
 -	Eğer kullanıcı adı ve şifre doğrulanırsa 'Hoşgeldiniz' mesajı verilmeli, 
 -	Eğer kullanıcı ad veya şifre yanlış ise login sayfasına geri dönülmeli, 
