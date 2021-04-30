@@ -1,7 +1,11 @@
 # -Web-Teknolojileri-projesi
 
 web-teknolojileri-projesi 
-Yusuf CihanGEDİK G201210043
+
+Yusuf CihanGEDİK
+
+G201210043
+
 Projenin Amacı: 
 -	Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek. 
  
