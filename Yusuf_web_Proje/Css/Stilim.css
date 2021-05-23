@@ -1,0 +1,450 @@
+.navbar
+{
+    opacity:0.9;
+    border-bottom: 1px solid #fff;
+}
+#YCG
+{
+    width:15px ;
+}    
+.eklentisağ
+{
+    margin-right: auto;
+}
+.eklentisol
+{
+    margin-left: auto;
+}
+#resim1
+{
+    height: 500px;
+    
+}
+#resim2
+{
+    height: 500px;
+}
+#resim3
+{
+    height:  500px;
+}
+#resim4
+{
+    height:  500px;
+}
+
+#sub
+{
+    background-color:cadetblue;   
+}
+#submit
+{
+    background-color:cadetblue;
+}
+.jumbotron-image
+{
+    margin-bottom: 0px;
+    background-position: right;
+    background-repeat:no-repeat ;
+    background-size: 600px ;
+    background-color: white; 
+    padding: 70px;
+}
+.jumbotron-ben
+{
+    background-repeat: no-repeat;
+    background-position: 80%;
+    background-size: 500px ;
+    
+}
+#hobi
+{
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+}
+#hakkımda
+{
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#özgeçmiş
+{
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+}
+#ulucamiresim1
+{
+    width: 550px;
+    height: 300px; 
+    border: solid;
+    float: left;
+    margin-top:40px ;
+    margin-left: 5px;
+}
+#ulucamiresim2
+{
+    width: 550px;
+    height: 300px; 
+    border: solid;
+    float: right;
+    margin-top:40px ;
+    margin-right: 5px;
+}
+#hrcizgi
+{
+    color:black;
+    height: 3px;
+}
+#carouselExampleIndicators
+{
+    margin-bottom:10px ;
+}
+.jumbotron-VAZO
+{
+    /*buraya ayar çekmeyi unutma */
+    margin-bottom: 0px;
+    background-position: 102%;
+    background-repeat:no-repeat ;
+    background-size: 600px ;
+    background-color: white; 
+   
+    
+}
+.jumbotron-Kale
+{
+    /*buraya ayar çekmeyi unutma */
+    margin-bottom: 0px;
+    background-position:right;
+    background-repeat:no-repeat ;
+    background-size: 600px ;
+    background-color: white; 
+    color: violet;
+}
+#kaleresim1
+{
+    width: 550px;
+    height: 300px; 
+    border: solid;
+    float: left;
+    margin-top:40px ;
+    margin-left: 5px;
+}
+#kaleresim2
+{
+    width: 550px;
+    height: 300px; 
+    border: solid;
+    float: right;
+    margin-top:40px ;
+    margin-right: 5px;
+}
+#aizanoiresim1
+{
+    width: 550px;
+    height: 300px; 
+    border: solid;
+    float: left;
+    margin-top: 40px ;
+    margin-left: 5px;
+    
+}
+#aizanoiresim2
+{
+    width: 550px;
+    height: 300px; 
+    border: solid;
+    float: right;
+    margin-top: 40px ;
+    margin-right: 5px;
+    
+}
+.altyazı
+{
+    position:absolute;
+    margin-top:-20px;  
+}
+#Dumlupınarresim1
+{
+    width: 550px;
+    height: 300px; 
+    border: solid;
+    float: left;
+    margin-top: 40px ;
+    margin-left: 5px;
+    
+}
+#Dumlupınarresim2
+{
+    width: 550px;
+    height: 300px; 
+    border: solid;
+    float: right;
+    margin-top: 40px ;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+#first-div
+{
+   
+   text-align: center;
+   background-color:rgb(238, 238, 238) ;
+}
+#second1-div
+{
+    
+    margin-bottom: 10px;
+    height: 830x;
+    background-color:rgb(238, 238, 238) ;
+}
+#second2-div
+{
+    
+    margin-bottom: 10px;
+    height: 830px;
+    background-color:rgb(238, 238, 238) ;
+}
+#özgecmişresim
+{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 70px;
+    background-color:rgb(238, 238, 238) ;
+    border: solid;
+}
+#span1
+{
+   text-align: center;
+}
+#span2
+{
+    border-radius: 5px;
+    border-color:rgb(197, 197, 197)  ;
+    background-color:rgb(197, 197, 197) ;
+    
+}
+#span3
+{
+    border-radius: 5px;
+    border-color:rgb(197, 197, 197)  ;
+    padding-right: 30%;
+    padding-left: 30%;
+    font-size: 30px;
+    box-sizing: 500px;
+    
+    
+    
+}
+
+#div3
+{
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+#divlogin
+{
+    
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+        width: 300px;
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+    text-align: center;
+    margin-top: 17%;
+    font-size: 30px;
+    margin-left: 37% ;
+    margin-bottom: 20px;
+   
+}
+#divemailpas
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#body1
+{
+    background-repeat: no-repeat ;
+    background-size: 40%;
+    background-position: 50%;
+    background-attachment: fixed ;
+    
+}
+
+#footer1
+{
+    /*tüm footerlera yapmayı unutma*/
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        height: 50px;
+        padding:15px;
+        background-color: #000;
+   
+}
+#diviletişim
+{
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+    
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#tableid
+{
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+    
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px; 
+}
+#anasayfadiv
+{
+    height: 400px;
+
+
+   
+    
+}
+#imganasayfa
+{
+    
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+    margin-left: 90px;
+}
+#cardanasayfa
+{
+    width:80%;
+    margin-left: 110px;
+    margin-bottom: 30px;
+}
+#card
+{
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+     border-radius: 16px;
+
+    -moz-box-shadow: 0px 0px 7px #000000;
+    -webkit-box-shadow: 0px 0px 7px #000000;
+    box-shadow: 0px 0px 7px #000000; 
+}
+body
+ {
+    background-color:white;
+  }
+
+  .menü {
+    background-color: #142a9a;
+    box-shadow: 2px 2px #161819;
+    border-radius: 13px;
+    position: fixed;
+    width: 260px;
+    font-family: "Roboto", sans-serif;
+    color: white;
+    height: 600px;
+  }
+
+  .menüİmg {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    align-self: center;
+  }
+
+  .menüLink {
+    color: white;
+    text-decoration: none;
+  }
+
+  .menüLink:hover {
+    color: white;
+    font-size: large;
+    transition: 150ms;
+    text-decoration: none;
+  }
+
+  .menüSosyalMedya {
+    height: 45px;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .menüSosyalMedyaLink {
+    color: red;
+  }
+
+  .menüSosyalMedyaLink:hover {
+    color: black;
+    transition: 600ms;
+  }
+
+ .a{
+   display: none;
+ }
+
+ @media screen and (max-width: 1000px) {
+    .menü {
+      display: none;
+      
+    }
+
+    .a{
+     
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
